@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614521025323",
+    "project_id": "snerve-c692f",
+    "storage_bucket": "snerve-c692f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614521025323:android:b80bd39c075d2ff9454b6e",
+        "android_client_info": {
+          "package_name": "com.snerve.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEWOPfe7AZ9ka2OUwBDQNVKN13VGSxzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
